@@ -1,9 +1,9 @@
-version: 1.1.1
+version: 1.1.2
 files:
   - url: bioplayer2bis-arm64.AppImage
-    sha512: mpMGOln3gbo+r5dAEk4uSSpQIoYkiJGIYglN0g/3c91J6yVlvAfn1LijuNTKTdUJEGTFqmMUjI2tza+tH1RuqA==
-    size: 144828793
-    blockMapSize: 152773
+    sha512: eE1sgkrX4sP4uTJZ8HSGHYXXo2wtrXjzJz1vX/h2kE8suSe6Hb3qpBByCGn8KITTlM6dVvaEGj2iJYugrOkUNQ==
+    size: 144828778
+    blockMapSize: 152758
 path: bioplayer2bis-arm64.AppImage
-sha512: mpMGOln3gbo+r5dAEk4uSSpQIoYkiJGIYglN0g/3c91J6yVlvAfn1LijuNTKTdUJEGTFqmMUjI2tza+tH1RuqA==
-releaseDate: '2024-11-22T08:48:50.913Z'
+sha512: eE1sgkrX4sP4uTJZ8HSGHYXXo2wtrXjzJz1vX/h2kE8suSe6Hb3qpBByCGn8KITTlM6dVvaEGj2iJYugrOkUNQ==
+releaseDate: '2024-11-22T08:52:57.564Z'
